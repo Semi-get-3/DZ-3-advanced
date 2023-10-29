@@ -1,4 +1,4 @@
 # Dz_2
 # Hello
 # My friend
-# This is 3 commitss
+# This is 3 commits
